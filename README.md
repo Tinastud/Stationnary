@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zendaya - Home</title>
+  <title>Tina - Home</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -71,8 +71,8 @@
 </head>
 <body>
   <header>
-    <h1>Zendaya</h1>
-    <p>Actor | Producer | Fashion Icon</p>
+    <h1>Tina</h1>
+    <p>Designer | Producer | Creative</p>
   </header>
   <nav>
     <a href="#home">Home</a>
@@ -81,19 +81,18 @@
     <a href="#contact">Contact</a>
   </nav>
   <div class="hero">
-    <h2>Welcome to Zendaya's World</h2>
-    <p>Explore her journey through acting, fashion, and beyond</p>
+    <h2>Welcome to Tina's Space</h2>
+    <p>Explore her journey through Design, Drawing, and beyond</p>
   </div>
   <div id="about" class="section">
-    <h3>About Zendaya</h3>
-    <p>Zendaya is a multi-talented artist known for her work in film, TV, and fashion. Explore her career and achievements!</p>
+    <h3>About Ti</h3>
+    <p> Explore her career and achievements!</p>
   </div>
   <div id="projects" class="section">
     <h3>Latest Projects</h3>
-    <p>Check out Zendaya's latest roles in *Dune*, *Euphoria*, and more!</p>
   </div>
   <footer>
-    <p>&copy; 2024 Zendaya. All Rights Reserved.</p>
+    <p>&copy; 2024 Tina. All Rights Reserved.</p>
   </footer>
 </body>
 </html>
